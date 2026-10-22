@@ -18,6 +18,8 @@ Figure 2. Opening the .DIB images in Fiji with File > Import > Bio-Formats
 <img width="874" height="650" alt="image" src="https://github.com/user-attachments/assets/7d0268f4-9d81-40ab-8a92-84184f35c6cd" />
 Figure 3. Opening the field 19468 actin, DNA and pH3 images in Fiji (File > Open)
 
+
+
 <img width="301" height="460" alt="image" src="https://github.com/user-attachments/assets/5145b615-bcfe-40f2-9583-4c2bf70b9a3c" />
 Figure 4. Fiji Set Measurements: Area, Mean gray value, Shape descriptors, Display label
 
